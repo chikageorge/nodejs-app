@@ -4,7 +4,7 @@
   "description": "A simple node js sample project",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Andrea Ahom",
   "license": "ISC",
@@ -13,3 +13,4 @@
     "mocha": "^11.1.0"
   }
 }
+
