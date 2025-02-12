@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "A simple node js sample project",
   "main": "server.js",
-  "scripts": {
-    "test": "mocha"
-  },
+  "scripts": {},
   "author": "Andrea Ahom",
   "license": "ISC",
   "dependencies": {
@@ -13,4 +11,3 @@
     "mocha": "^11.1.0"
   }
 }
-
